@@ -269,6 +269,7 @@ nav.closed ul {
 .PageContent h1 {
     font-size: 36px;
     font-family: 'Fjord One', serif;
+    line-height:125%;
     padding-bottom:15px;
 }
 
